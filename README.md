@@ -6,4 +6,4 @@ I'm interested in all things tech with a special interest on innovative technolo
 
 I'm currently learning how to use the Dask python framework with a relatively simple machine learning case study.
 
-You can reach me by email at vincewainman@gmail.com or on linkedin under Vincent Wainman
+You can reach me by email at vincewainman@gmail.com or on linkedin www.linkedin.com/in/vwainman
