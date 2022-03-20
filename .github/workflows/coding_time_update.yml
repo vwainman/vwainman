@@ -1,19 +1,15 @@
 name: WakaTime infographic update
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "1 0 * * *"
+    - cron: "0 */2 * * *"
 
 jobs:
-  update-Readme:
-    name: Automatically update WakaTime Stat
+  update-readme:
+    name: Update repo README
     runs-on: ubuntu-latest
     steps:
       - uses: tariksahni/coding-stats-wakatime@v1.0.0
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_MONTHLY: true
-          GITHUB_TOKEN: ${{ github.token }}
-          GITHUB_ACTION: ${{ github.action }}
-          BRANCH: "main"
-          COMMIT_MSG: "Automated coding time activity update"
