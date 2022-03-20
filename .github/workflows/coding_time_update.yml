@@ -10,6 +10,6 @@ jobs:
     name: Update repo README
     runs-on: ubuntu-latest
     steps:
-      - uses: tariksahni/coding-stats-wakatime@v1.0.0
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
