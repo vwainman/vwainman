@@ -1,12 +1,12 @@
-name: Update README with my latest coding stats
+name: WakaTime infographic update
 
 on:
   schedule:
-    - cron: '30 5 * * *'
+    - cron: "1 0 * * *"
 
 jobs:
   update-Readme:
-    name: Automatically update my README  
+    name: Automatically update WakaTime Stat
     runs-on: ubuntu-latest
     steps:
       - uses: tariksahni/coding-stats-wakatime@v1.0.0
@@ -15,3 +15,5 @@ jobs:
           SHOW_MONTHLY: true
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_ACTION: ${{ github.action }}
+          BRANCH: "main"
+          COMMIT_MSG: "Automated doding time activity update"
