@@ -1,4 +1,4 @@
-name: Update README with my latest coding stats
+name: WakaTime Coding Statistics
 
 on:
   push:
