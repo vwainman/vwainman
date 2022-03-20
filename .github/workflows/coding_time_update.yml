@@ -16,4 +16,4 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_ACTION: ${{ github.action }}
           BRANCH: "main"
-          COMMIT_MSG: "Automated doding time activity update"
+          COMMIT_MSG: "Automated coding time activity update"
