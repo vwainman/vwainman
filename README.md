@@ -6,4 +6,4 @@ I'm interested in all things tech with a special interest on innovative technolo
 
 You can reach me by email at vincewainman@gmail.com or on linkedin www.linkedin.com/in/vwainman
 
-<img src="https://github.com/vwainman/vwainman/blob/master/images/codeStats.svg" alt="My Coding Activity"/>
+<img src="https://github.com/vwainman/vwainman/blob/main/images/codeStats.svg" alt="My Coding Activity"/>
