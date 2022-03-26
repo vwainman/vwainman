@@ -9,12 +9,14 @@ You can reach me by email at vincewainman@gmail.com or on linkedin www.linkedin.
 <!--START_SECTION:waka-->
 
 ```text
-Python       25 hrs 51 mins  ███████████████████████░░   91.88 %
-JavaScript   1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-Text         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Markdown     24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+From: 23 February 2022 - To: 25 March 2022
+
+Python       56 hrs 25 mins  ████████████████████████░   96.08 %
+JavaScript   1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Text         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Markdown     24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
