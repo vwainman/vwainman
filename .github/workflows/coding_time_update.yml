@@ -1,5 +1,4 @@
 name: WakaTime infographic update
-description: Monthly Coding Time Distribution 
 
 on:
   workflow_dispatch:
