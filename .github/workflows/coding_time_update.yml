@@ -8,6 +8,7 @@ on:
 jobs:
   update-readme:
     name: Update repo README
+    custom_title: Monthly Coding Time Distribution 
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
