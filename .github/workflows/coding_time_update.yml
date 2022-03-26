@@ -8,10 +8,10 @@ on:
 jobs:
   update-readme:
     name: Update repo README
-    custom_title: Monthly Coding Time Distribution 
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: last_30_days
+          CUSTOM_TITLE: Monthly Coding Time Distribution 
