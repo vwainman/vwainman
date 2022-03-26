@@ -6,6 +6,6 @@ Peruse my repositories and let's chat!
 
 Email: vincewainman@gmail.com
 
-<div text-align=center;> Weekly Development Distribution </div>
+<p align="center"> Weekly Development Distribution </p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
