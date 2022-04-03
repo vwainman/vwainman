@@ -6,7 +6,7 @@ Peruse my repositories and let's chat!
 
 Email: vincewainman@gmail.com
 
-<p align="center"> Weekly Development Distribution </p>
+<p align="center"> Weekly Active Coding Time </p>
 <!--START_SECTION:waka-->
 
 ```text
