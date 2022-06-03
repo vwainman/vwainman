@@ -10,11 +10,11 @@ Email: vincewainman@gmail.com
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   6 hrs 35 mins   █████████▓░░░░░░░░░░░░░░░   38.10 %
-CSS          4 hrs 49 mins   ███████░░░░░░░░░░░░░░░░░░   27.89 %
-HTML         4 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.38 %
-Python       1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+JavaScript   8 hrs 6 mins    ██████████░░░░░░░░░░░░░░░   39.89 %
+CSS          5 hrs 55 mins   ███████▒░░░░░░░░░░░░░░░░░   29.17 %
+HTML         5 hrs 11 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.55 %
+Python       57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Markdown     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
