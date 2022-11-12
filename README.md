@@ -10,7 +10,7 @@ Email: vincewainman@gmail.com
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   21 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
