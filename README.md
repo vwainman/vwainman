@@ -10,9 +10,8 @@ Email: vincewainman@gmail.com
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 43 mins   ████████████████████████▓   98.03 %
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+JavaScript   1 hr 7 mins     ████████████████████████▓   99.07 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
